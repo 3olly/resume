@@ -1,4 +1,3 @@
-markdownCopy code
 # 이력서
 
 ## 소개
