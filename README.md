@@ -1,1 +1,25 @@
-<title>이력서</title> <style> body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f1f1f1; } .container { width: 800px; margin: 0 auto; background-color: #ffffff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2); } h1, h2, h3, h4, h5, h6 { font-weight: bold; margin-top: 0; } p { margin: 0; padding: 0; line-height: 1.5; } .section { margin-top: 20px; } .section-title { font-size: 18px; margin-bottom: 10px; } .row { display: flex; flex-wrap: wrap; margin: -10px; } .col { flex: 1; padding: 10px; box-sizing: border-box; } .col-2 { flex: 2; } .col-3 { flex: 3; } .col-4 { flex: 4; } </style>
+markdownCopy code
+# 이력서
+
+## 소개
+
+- 이름: 김채연
+- 연락처: 010-1234-5678
+- 이메일: 
+
+## 학력
+
+- 이화여자대학교 엘텍공과대학 소프트웨어학부 사이버보안전공 재학 (2022~)
+
+## 보유 기술
+
+- 정문에서 공대까지 걸어서 12분만에 도착 가능
+
+## 수상 및 자격증
+
+- 
+
+## 언어
+
+- 한국어 (모국어)
+- 영어 
